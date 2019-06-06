@@ -9,6 +9,7 @@ library(shinyWidgets)
 library(shinyjs)
 library(plotly)
 library(data.table)
+library(V8)
 
 # File used for datset ---
 results_file <- "U:/Profile/Documents/Shiny Apps/Shiny App/data/Best_Model_Results.csv"
