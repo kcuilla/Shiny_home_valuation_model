@@ -7,4 +7,4 @@ https://www.kaggle.com/c/zillow-prize-1/data
 ### Demo: <br>
 <i>Note: the interactive map used to show satellite imagery of the houses via MapBox, but MapBox has since removed this map option.</i>
 
-<img src="https://raw.githubusercontent.com/kcuilla/Shiny_home_valuation_model/main/man/figures/homevaluationdemo.gif" algin="center"/>
+<img src="https://github.com/kcuilla/Shiny_home_valuation_model/blob/master/homevaluationdemo.gif" algin="center"/>
